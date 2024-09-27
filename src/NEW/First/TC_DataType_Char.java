@@ -8,6 +8,6 @@ char A='$';
 char b='_';
 char c= '\u1F6A';//uni code
 
-System.out.println(c);
+System.out.println(b);
     }
 }
